@@ -14,7 +14,7 @@ This smart contract allows minting and transferring tokens.
 
 ## Deployment Steps
 1. Open Remix IDE
-2. Paste the code
+2. write the code
 3. Compile and deploy using Injected Web3
 4. Interact using deployed functions
 
