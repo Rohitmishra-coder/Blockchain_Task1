@@ -1,4 +1,6 @@
-# Blockchain Task 1 - Token Transfer Smart Contract
+# Author Rohit Mishra
+
+# Token Transfer Smart Contract
 
 ## Description
 This smart contract allows minting and transferring tokens.
