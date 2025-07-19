@@ -1,5 +1,3 @@
-# Author 
-Rohit Mishra
 
 # Token Transfer Smart Contract
 
