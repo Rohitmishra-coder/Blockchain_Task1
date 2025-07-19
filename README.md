@@ -22,3 +22,6 @@ This smart contract allows minting and transferring tokens.
 ## proof
 <img width="1366" height="692" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/7c1747a1-1339-428a-abaf-8c374591523e" />
 
+# Author
+**Rohit Mishra**
+
